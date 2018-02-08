@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-reptile",
+  "version": "1.0.0",
+  "description": "reptile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasontianxie/nodejs-reptile.git"
+  },
+  "keywords": [
+    "reptile"
+  ],
+  "author": "wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasontianxie/nodejs-reptile/issues"
+  },
+  "homepage": "https://github.com/jasontianxie/nodejs-reptile#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.2"
+  }
+}
